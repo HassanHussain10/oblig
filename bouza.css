@@ -1,0 +1,53 @@
+body{
+
+background-color: lightsalmon;
+
+
+}
+
+h1{
+    text-align: center;
+    text-overline-color: grey;
+    border-color: black;
+    border-style: solid;
+    background-color: bisque;
+
+
+}
+
+
+#boks{
+
+  height: 300px;
+  width: 300px;
+    border-style: solid;
+  border-color: black;
+  background-color: bisque;
+
+  text-align: left;
+
+
+}
+
+#tekstboks{
+ height: 500;
+ width: 500;
+ text-align: justify;
+ border-style: solid;
+ border-color: black;
+ background-color: bisque;
+
+}
+
+
+
+
+h2 {
+
+    text-align: center;
+}
+
+p {
+
+    text-align: center;
+}
